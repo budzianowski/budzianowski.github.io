@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pawel Budzianowski
+title: Paweł Budzianowski
 email: budzianowski@gmail.com
 url: "https://budzianowski.github.io/"
-twitter_username: https://x.com/pfbudzianowski
+twitter_username: pfbudzianowski
 github_username:  budzianowski
-linkedin_username:  pawe%C5%82-budzianowski-698a5a141
 
 # Build settings
 theme: minima
