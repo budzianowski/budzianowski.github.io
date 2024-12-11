@@ -5,34 +5,10 @@
 layout: default
 ---
 
-## About me
+I'm a co-founder and CTO of [K-Scale Labs](https://kscale.dev/) where we are building general-purpose robots (GPRs) to bring embodied intelligence into the real. I also created and co-lecture the joint NLP course for ML Master's programs at [Warsaw University](https://www.mimuw.edu.pl/en/machine-learning-new-field-masters-programs) and [Jagiellonian University](https://gmum.net/). I am passionate about everything that is related to applied mathematics, statistics, machine learning and artificial intelligence. 
 
-I'm Anil Wadghule,
+I used to lead the ML team at [PolyAI](https://www.polyai.com/) working on conversational AI in research and production. I did my PhD in [Dialogue Systems Group](https://dialogue.mi.eng.cam.ac.uk/index.php/people/) at Cambridge University working on long-term conversational agents jointly supervised by [prof. Rich Turner](https://learning.eng.cam.ac.uk/Public/Turner/WebHome) and [prof. Anna Korhonen](https://www.cl.cam.ac.uk/~alk23/). I also had a chance to work with [prof. Milica Gašić](https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning.html).
 
-I am currently working with Erlang Solutions as an Elixir Developer.
+Prior to that, I was working on training deep belief networks using high-temperature expansion being supervised by [prof. Rich Turner](https://learning.eng.cam.ac.uk/Public/Turner/WebHome). For my bachelor, I graduated in mathematics from [Adam Mickiewicz University](https://en.wikipedia.org/wiki/Adam_Mickiewicz_University_in_Pozna%C5%84).
 
-With expertise in building software with Elixir programming language & Phoenix web framework, helped my clients to build projects using Elixir language and Phoenix web framework for a few years.
-
-Previously, worked with Ruby, Ruby on Rails, Java, Node.js, Elm, etc., programming languages.
-
-Specialize in product development. Follow TDD and Agile principles.
-
-
-## Consulting
-
-Architect, coordinate, and implement your Elixir projects.
-
-My experience includes building Skatter, a video chat product made with Elixir in the backend.
-
-Worked in domains like Chatbots, Project management software, Online examinations video recording, Real-time notification hub, Social/E-commerce apps backend, etc.
-
-Used Elixir as main server-side language for these various projects in a variety of domains.
-
-
-## LinkedIn
-
-[Link to LinkedIn profile](https://www.linkedin.com/in/anilwadghule "Link to LinkedIn profile")
-
-## Contact
-
-Drop me an email at anil@anilwadghule.com with a short project description, and I will consider your project.
+If you have any questions feel free to contact me - my mail is budzianowski at gmail dot com.
