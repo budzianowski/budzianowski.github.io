@@ -6,7 +6,7 @@ share: false
 image:
   credit: "@budzianowski"
 ---
-I'm currently building [Lute](https.lute.one), the robotics workforce of the future - if you are interested, reach out!
+I'm currently building [Lute](https://lute.one), the robotics workforce of the future - if you are interested, reach out!
  
 Previously, I co-founded [K-Scale Labs](https://kscale.dev/) where we buil affordable and open-source humanoid robots to democratize embodied AI. I also created and co-lectured the joint NLP course for ML Master's programs at [Warsaw University](https://www.mimuw.edu.pl/en/machine-learning-new-field-masters-programs) and [Jagiellonian University](https://gmum.net/). I am passionate about everything that is related to applied mathematics, statistics, machine learning and artificial intelligence.
 
